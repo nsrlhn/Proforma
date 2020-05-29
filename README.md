@@ -7,4 +7,3 @@ General Features:
 - Create, manage and store projects.
 - Prepare proforma for a project.
 - Make a revision in a proforma.
-- 
